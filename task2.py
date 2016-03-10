@@ -17,3 +17,4 @@ ax3.imshow(g, cmap = 'Greens')
 ax4.imshow(b, cmap = 'Blues')
 plt.show()
 
+TASK 2
